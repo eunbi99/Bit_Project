@@ -1,0 +1,165 @@
+/*    --------------------------------------------------
+    :: Login Section
+	-------------------------------------------------- */
+    #login {
+        padding: 50px 0 150px 0;
+    }
+    #login h1 {
+        color: black ;
+        font-size: 18px;
+        text-align: center;
+        font-weight: bold;
+        padding-bottom: 20px;
+    }
+    #login .form-group {
+        margin-bottom: 20px;
+    }
+    #login .checkbox {
+        position: relative;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        -o-user-select: none;
+        user-select: none;
+    }
+    #login .checkbox.show:before {
+        content: '\e013';
+        color: #1f6fc4;
+        font-size: 17px;
+        margin: 1px 0 0 3px;
+        position: absolute;
+        pointer-events: none;
+        font-family: 'Glyphicons Halflings';
+    }
+    #login .checkbox .character-checkbox {
+        width: 25px;
+        height: 25px;
+        cursor: pointer;
+        border-radius: 3px;
+        border: 1px solid #ccc;
+        vertical-align: middle;
+        display: inline-block;
+    }
+    #login .checkbox .label {
+        color: black;
+        font-size: 13px;
+        font-weight: normal;
+    }
+
+    /* 버튼 크기 */
+    #login .btn.btn-custom,
+    .social-login>a {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+
+    .social-login>a{
+        height: 54px;
+    }
+
+    #login .forget {
+        font-size: 13px;
+        text-align: center;
+        display: block;
+    }
+
+    /* 추가 css*/
+    .bar{
+        float: left;
+        width: 1px;
+        height: 14px;
+        margin: 3px 6px 0;
+        background-color: black;
+    }
+
+    .login_search .link {
+        float: left;
+        font-size: 13px;
+    }
+
+    /* 아이디 찾기, 비번 찾기 위치조정*/
+
+    .checkbox_save{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: -17px;
+        margin-bottom: 20px;
+
+    }
+
+    /* a태그 텍스트 스타일 */
+    
+    .login_search>a { text-decoration: none; color: black;  }
+    .login_search>a:visited { text-decoration: none; }
+    .login_search>a:hover { text-decoration: none; }
+    .login_search>a:focus { text-decoration: none; }
+    .login_search>a:hover, 
+    .login_search>a:active { text-decoration: none; }
+
+    
+    /*    --------------------------------------------------
+    :: Inputs & Buttons
+    -------------------------------------------------- */
+
+    .btn-custom {
+        color: #fff;
+        background-color: #378bb3  ;
+    }
+
+    /* 추가 */
+    /*  화면 박스 크기 조정 */
+    #btn-signup{
+        background-color: #fff;
+        color:black;
+        border: 0.1px solid #1f6fc4;
+        
+    }
+
+    /* 소셜 로그인 버튼 */
+
+
+    /* 로그인 화면 박스들 크기 조정 */
+    #btn-login,
+    #btn-signup,
+    #email, #key  
+    {
+        height: 53px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        letter-spacing: 0;
+    }
+
+    /*input박스 안의 placeholder크기*/
+    .form-control{
+        font-size: 1.3rem;
+    }
+
+    /* 버튼 hover시 */
+    /* .btn-custom:hover,
+    .btn-custom:focus {
+        background-color: #378bb3;
+    } 
+
+
+    .btn-custom:hover{
+        background-color: #378bb3;
+    }
+    */
+    
+    /*    --------------------------------------------------
+        :: Footer
+        -------------------------------------------------- */
+    /* #footer {
+        color: #6d6d6d;
+        font-size: 12px;
+        text-align: center;
+    } */
+    #footer p {
+        margin-bottom: 0;
+    }
+    /* #footer a {
+        color: inherit;
+    } */
+    a{color:#378bb3;} /* footer 색 */

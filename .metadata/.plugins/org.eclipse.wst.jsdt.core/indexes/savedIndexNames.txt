@@ -1,0 +1,18 @@
+INDEX VERSION 1.4+C:\bit-kurly-workspace\bit-kurly-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3777167025.index
+3639652357.index
+67839362.index
+814337831.index
+834983552.index
+134436743.index
+1507119490.index
+4209764488.index
+852662579.index
+1345931812.index
+718771095.index
+2829406987.index
+320702555.index
+4085094770.index
+1692638730.index
+3103076206.index
+302417632.index

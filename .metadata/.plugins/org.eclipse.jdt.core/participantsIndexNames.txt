@@ -1,0 +1,23 @@
+INDEX VERSION 1.131
+C:\bit-kurly-workspace\bit-kurly-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\814337831.index
+\marketKurly_Project\src
+C:\bit-kurly-workspace\bit-kurly-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\852662579.index
+\marketKurly_Project\src
+C:\bit-kurly-workspace\bit-kurly-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3639652357.index
+\marketKurly_Project\src
+C:\bit-kurly-workspace\bit-kurly-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2829406987.index
+\marketKurly_Project\src
+C:\bit-kurly-workspace\bit-kurly-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\134436743.index
+\marketKurly_Project\src
+C:\bit-kurly-workspace\bit-kurly-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4085094770.index
+\marketKurly_Project\src
+C:\bit-kurly-workspace\bit-kurly-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\834983552.index
+\marketKurly_Project\src
+C:\bit-kurly-workspace\bit-kurly-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3777167025.index
+\marketKurly_Project\src
+C:\bit-kurly-workspace\bit-kurly-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3103076206.index
+\marketKurly_Project\src
+C:\bit-kurly-workspace\bit-kurly-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\302417632.index
+\marketKurly_Project\src
+C:\bit-kurly-workspace\bit-kurly-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1692638730.index
+\marketKurly_Project\src
