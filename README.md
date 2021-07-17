@@ -4,7 +4,7 @@
 * 맡은 역할 : 게시판 UI / 장바구니 구현 
 
 # 1.사용 기술
-* JSP
+* JSP/Servlet
 * JAVA 8 
 * BootStrap
 * CSS
